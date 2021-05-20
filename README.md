@@ -1,10 +1,10 @@
-# mealApp
+## Peprika - mealApp
 
-A new Flutter project.
+A new Flutter project which contains different types of dishes , their recipes ,ingredients and many more which will help you to make your desired food at home.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Screenshots of the application are attached in this project.
 
 A few resources to get you started if this is your first Flutter project:
 
